@@ -1,0 +1,13 @@
+/*-----------------------------------Text-------------------------------------*/
+
+.t-centered{
+	text-align: center;
+}
+
+.float-left{
+	float: left;
+}
+
+.pos-absolute{
+	position: absolute;
+}
